@@ -41,6 +41,7 @@ $food = new Food("potato", 250);
 print_r($food);
 echo '<br>';
 
+
 $animal = new Animal("dog", 60, 5000);
 print_r($animal);
 echo '<br>';
